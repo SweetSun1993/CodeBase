@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_normal_list"
+        android:title="@string/normal_list"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_normal_grid"
+        android:title="@string/normal_grid"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/action_normal_staggered"
+        android:title="@string/normal_staggered"
+        app:showAsAction="never"/>
+
+
+</menu>
